@@ -1,3 +1,3 @@
-fun someMethod(a : A) : A {
-    return A(5, "Hello")
+fun someMethod(a : B) : B {
+    return B(5, "Hello")
 }
